@@ -1,0 +1,35 @@
+{
+  "users": [
+    {},
+    {
+      "id": 12,
+      "name": "Fyodor Dostoievsky",
+      "password": "n2r5sd"
+    },
+    {
+      "id": 16,
+      "name": "teste",
+      "password": "cccc"
+    },
+    {
+      "id": "5",
+      "name": "testerfcx",
+      "password": "ccgtfcx "
+    },
+    {
+      "id": "44",
+      "name": "teste",
+      "password": "cc"
+    },
+    {
+      "id": "133",
+      "name": "teste",
+      "password": "cc"
+    },
+    {
+      "id": "555",
+      "name": "frsdz",
+      "password": "grevfc x"
+    }
+  ]
+}
